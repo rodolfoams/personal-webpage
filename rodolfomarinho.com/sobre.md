@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+lang: pt
+ref: sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Em breve colocarei aqui minhas informações para que a Cambridge Analytica possa processar.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

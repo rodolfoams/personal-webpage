@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rodolfo Marinho, MSc.
-email: rodolfo@grupomarinho.com,br
+title: Prof. Rodolfo Marinho, MSc.
+email: rodolfo (at) rodolfomarinho (dot) com
 host: 0.0.0.0
+port: 443
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Rodolfo Marinho é mestre em Ciência da Computação pela Universidade Federal de Campina Grande, com ênfase na área de Segurança e Privacidade de Dados.
+  Atualmente, está docente do curso de Sistemas de Informação na Unifacisa, onde leciona as disciplinas de Lógica Aplicada à Informática e Fundamentos Lógicos da Computação.
+  © 2019 Rodolfo Marinho
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: rodolfoams
@@ -28,6 +29,7 @@ github_username:  rodolfoams
 # Build settings
 markdown: kramdown
 theme: minima
+encoding: utf-8
 plugins:
   - jekyll-feed
 
