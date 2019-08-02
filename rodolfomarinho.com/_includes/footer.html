@@ -1,0 +1,31 @@
+<footer class="site-footer">
+
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-3" style="width: 250px;">
+          <img src="/assets/profile.jpeg" alt="Profile picture" width="100" height="100" style="display:block; margin-left:50px;">
+          <br/>
+          <ul class="contact-list">
+            <li>
+              {% if site.author %}
+                {{ site.author | escape }}
+              {% else %}
+                {{ site.title | escape }}
+              {% endif %}
+              </li>
+              {% if site.email %}
+              <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {% endif %}
+          </ul>
+          {%- include social.html -%}
+        </div>
+  
+        <div class="footer-col footer-col-3" style="width: calc(61%);">
+          <p>{{ site.description | escape }}</p>
+          <p>© 2019 Rodolfo Marinho</p>
+        </div>
+      </div>
+  
+    </div>
+  
+  </footer>

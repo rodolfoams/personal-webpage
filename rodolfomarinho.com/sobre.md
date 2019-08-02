@@ -6,15 +6,18 @@ ref: sobre
 permalink: /sobre/
 ---
 
-Em breve colocarei aqui minhas informações para que a Cambridge Analytica possa processar.
+## Eu Trago Verdades
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+É notória a quantidade de ataques cibernéticos bem-sucedidos que continuam a acontecer diariamente. Vários e vários vazamentos de dados sigilosos são constantemente divulgados na mídia, envolvendo desde aplicativos de redes sociais até invasões a servidores de grandes empresas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Mas, então, como proteger meus dados os dados de meus clientes?!**
 
+Neste site trago conteúdo sobre diferentes dicas e estratégias para proteção de dados em diferentes níveis de aplicação, que vão desde usuários com pouco conhecimento técnico até desenvolvedores de aplicações e operadores de infraestrutura de TI.
 
-[jekyll-organization]: https://github.com/jekyll
+**Sou usuário, por onde começo?**
+
+Em breve.
+
+**Quero melhorar a segurança dos dados de meus clientes, tens alguma dica?**
+
+Em breve.
