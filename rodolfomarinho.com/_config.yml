@@ -17,8 +17,9 @@ title: Prof. Rodolfo Marinho, MSc.
 email: rodolfo@rodolfomarinho.com
 host: 0.0.0.0
 port: 443
-description: >- # this means to ignore newlines until "baseurl:"
-  Rodolfo Marinho é mestre em Ciência da Computação pela Universidade Federal de Campina Grande, com ênfase na área de Segurança e Privacidade de Dados. Atualmente, está docente do curso de Sistemas de Informação na Unifacisa, onde leciona as disciplinas de Lógica Aplicada à Informática e Fundamentos Lógicos da Computação.
+description:
+  pt: Rodolfo Marinho é mestre em Ciência da Computação pela Universidade Federal de Campina Grande, com ênfase na área de Segurança e Privacidade de Dados. Atualmente, está docente do curso de Sistemas de Informação na Unifacisa, onde leciona as disciplinas de Lógica Aplicada à Informática e Fundamentos Lógicos da Computação.
+  en: Rodolfo Marinho is an MSc. in Computer Science from the Federal University of Campina Grande, with emphasis in Data Security and Privacy. Currently, he is a professor of the Information Systems course at Unifacisa, lecturing Applied Computer Logic and Fundamentals of Logic in Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: rodolfoams
