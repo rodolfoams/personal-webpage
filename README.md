@@ -5,7 +5,7 @@ To try it out, run:
 
 ```bash
 docker build -t rodolfomarinho .
-docker run -d  -p 4001:4000 rodolfomarinho
+docker run -d -p 4001:443 rodolfomarinho
 ```
 
 You can then access the webpage at `http://localhost:4001`.
